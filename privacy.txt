@@ -1,0 +1,10 @@
+# Privacy Policy
+
+This application respects your privacy:
+
+- No personal data is collected, stored, or shared with third parties.
+- The tool processes videos locally on your machine, unless you configure external APIs (e.g., TikTok).
+- Any access tokens or API keys you provide are used only to authenticate requests you explicitly make.
+- We do not sell or share any information with third parties.
+
+If you have any questions about this policy, you may stop using the application at any time.
